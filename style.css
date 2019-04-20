@@ -1,0 +1,44 @@
+body{
+   font-family: 'Open Sans', sans-serif;
+   font-size: 20;
+   background-color: black;
+}
+#calculator{
+    width:350px; 
+    height:540px; 
+    background-color: #eaedef; 
+    margin : auto;
+    position: relative; 
+    top:20px; 
+    border-radius: 10px;
+}
+#result{
+    height:120px;
+}
+#cronologia{
+    text-align:rigth;   
+    padding-top:20px; 
+    padding-left:20px;
+    font-size:15px; 
+    color:#919191;
+}
+#output{
+    text-align:rigth; 
+    height:60px; 
+    margin: 10px 20px;  
+    font-size:30px;
+}
+button{
+    width: 50px;
+    height: 50px;
+    margin: 15px;
+    float: left;
+    border-radius: 50%;
+    font-weight: bold;
+    font-size: 15px;
+    outline: none;
+}
+
+.operatore{
+    background-color: #919090; 
+}
